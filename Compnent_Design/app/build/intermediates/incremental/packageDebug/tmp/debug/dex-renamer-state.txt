@@ -1,0 +1,4 @@
+#Thu Aug 15 10:50:04 CST 2019
+base.0=C\:\\Users\\HJX\\Desktop\\hjx\\DesignMode\\Compnent_Design\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
