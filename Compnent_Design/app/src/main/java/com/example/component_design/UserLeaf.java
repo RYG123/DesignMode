@@ -1,27 +1,27 @@
 package com.example.component_design;
 
 public class UserLeaf extends AbsComnpent{
-
-
-    @Override
-    protected void Add(AbsComnpent c) {
-
+    UserLeaf(String name){
+        super(name);
     }
 
     @Override
-    protected void Delete(AbsComnpent c) {
-
+    protected void Add(AbsComnpent c) throws Exception{
+        throw new Exception("不支持的方法");
     }
 
     @Override
-    protected void Modefy(AbsComnpent c) {
-
+    protected void Delete(AbsComnpent c) throws Exception {
+        throw new Exception("不支持的方法");
     }
 
     @Override
-    protected void Query(int id) {
-            System.out.println("这里是Leaf1的Query(),这里只展示所有UserId");
-            System.out.println("有用户1");
-            System.out.println("有用户2");
+    protected void Modefy(AbsComnpent c) throws Exception {
+        throw new Exception("不支持的方法");
+    }
+
+    @Override
+    protected void Query(String id) {
+           System.out.println(id+"/"+this.name);
     }
 }

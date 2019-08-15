@@ -1,31 +1,30 @@
 package com.example.component_design;
 
 public class OldUser extends  User{
-    OldUser(){
-        super();
-        System.out.println("这里是OldUser（）");
+    OldUser(String name){
+        super(name);
     }
     @Override
     protected void Add(AbsComnpent c) {
-
+        list.add(c);
     }
 
     @Override
     protected void Delete(AbsComnpent c) {
-
+        list.remove(c);
     }
 
     @Override
     protected void Modefy(AbsComnpent c) {
-
+        int i = list.indexOf(c);
+        Delete(c);
+        list.add(c);
     }
-
     @Override
-    protected void Query(int id) {
-        if(id ==2){
-            System.out.println("该用户是老用户");
-        }else{
-            System.out.println("该用户不是老用户");
+    protected void Query(String id) {
+        id += "/"+this.name;
+        for(AbsComnpent ac : list){
+            ac.Query(id);
         }
     }
 }
