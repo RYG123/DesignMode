@@ -1,0 +1,80 @@
+[
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\b9b897bf7deed729ac3b64a2d6328da1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e49f214a8c30698fb449091fb2a2b184\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\scan_light.png",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-library-2.2.aar\\7b151a69485760e947b04d7e82469954\\res\\drawable\\scan_light.png"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\rn_tab_last_not_selected.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\rn-external-0.41.2.20180331.aar\\c039f5ab308f7d7bd6245c9c65d88a20\\res\\drawable\\rn_tab_last_not_selected.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_jump.xml",
+        "source": "E:\\LinkJobProject\\AliSamrtHome-Android\\appuiframe\\build\\intermediates\\packaged_res\\debug\\drawable\\shape_jump.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e49f214a8c30698fb449091fb2a2b184\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e49f214a8c30698fb449091fb2a2b184\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background_default.xml",
+        "source": "E:\\LinkJobProject\\AliSamrtHome-Android\\appuiframe\\build\\intermediates\\packaged_res\\debug\\drawable\\button_background_default.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\device_status_drawable_selector.xml",
+        "source": "E:\\LinkJobProject\\AliSamrtHome-Android\\appuiframe\\build\\intermediates\\packaged_res\\debug\\drawable\\device_status_drawable_selector.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\ali_sdk_openaccount_bg_oval_taobao.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\openaccount-ui-default-3.5.3.4.aar\\ff3ca07b211e61707ea526acbe9324ca\\res\\drawable\\ali_sdk_openaccount_bg_oval_taobao.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e49f214a8c30698fb449091fb2a2b184\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\b9b897bf7deed729ac3b64a2d6328da1\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e49f214a8c30698fb449091fb2a2b184\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_background_default_selector.xml",
+        "source": "E:\\LinkJobProject\\AliSamrtHome-Android\\appuiframe\\build\\intermediates\\packaged_res\\debug\\drawable\\textview_background_default_selector.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e49f214a8c30698fb449091fb2a2b184\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_order_banner.xml",
+        "source": "E:\\LinkJobProject\\AliSamrtHome-Android\\appuiframe\\build\\intermediates\\packaged_res\\debug\\drawable\\bg_order_banner.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e49f214a8c30698fb449091fb2a2b184\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\ali_sdk_openaccount_device_divider_line.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\openaccount-ui-default-3.5.3.4.aar\\ff3ca07b211e61707ea526acbe9324ca\\res\\drawable\\ali_sdk_openaccount_device_divider_line.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\HJX\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e49f214a8c30698fb449091fb2a2b184\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\LinkJobProject\\AliSamrtHome-Android\\CustomApps\\hc\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_discover.png",
+        "source": "E:\\LinkJobProject\\AliSamrtHome-Android\\

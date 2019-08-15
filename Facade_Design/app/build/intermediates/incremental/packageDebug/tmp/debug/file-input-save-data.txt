@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Aug 15 14:49:56 CST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\HJX\\Desktop\\hjx\\DesignMode\\Facade_Design\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
